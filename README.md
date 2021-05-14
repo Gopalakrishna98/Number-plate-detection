@@ -1,1 +1,1 @@
-# Number-plate-detection
+In this repository i am detecting the vehicle number plate automatically and read the numbers on the plate automatically.i am using contours to find the number plate fo vehicle and reading of the chracters on the nuber plate i use EasyOcr.
